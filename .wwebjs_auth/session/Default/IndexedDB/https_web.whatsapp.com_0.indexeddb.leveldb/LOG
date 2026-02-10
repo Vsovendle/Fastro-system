@@ -1,0 +1,5 @@
+2026/01/21-09:33:15.634 ae Creating DB /app/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2026/01/21-09:33:15.644 ae Reusing MANIFEST /app/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/21-09:33:15.648 ae Recovering log #311
+2026/01/21-09:33:15.651 ae Reusing old log /app/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000311.log 
+2026/01/21-09:33:15.651 ae Delete type=2 #313

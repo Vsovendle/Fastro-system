@@ -1,0 +1,88 @@
+{
+  "transactions": [
+    {
+      "id": 1769020531902,
+      "date": "2026-01-21",
+      "item": "Unrecognized Receipt",
+      "amount": 0,
+      "category": "Other"
+    },
+    {
+      "id": 1769020499180,
+      "date": "2026-01-21",
+      "item": "Unrecognized Receipt",
+      "amount": 0,
+      "category": "Other"
+    },
+    {
+      "id": 1769019313234,
+      "date": "2026-01-21",
+      "item": "test ",
+      "amount": "2000",
+      "category": "Food"
+    },
+    {
+      "id": 1769019298851,
+      "date": "2026-01-21",
+      "item": "test ",
+      "amount": "50",
+      "category": "Food"
+    },
+    {
+      "id": 1769019089528,
+      "date": "2026-01-21",
+      "item": "Transport ",
+      "amount": "550",
+      "category": "Transport"
+    },
+    {
+      "id": 1769019060243,
+      "date": "2026-01-21",
+      "item": "Petrol ",
+      "amount": "1000",
+      "category": "Utilities"
+    },
+    {
+      "id": 1769019035326,
+      "date": "2026-01-21",
+      "item": "food ",
+      "amount": "150",
+      "category": "Food"
+    },
+    {
+      "id": 1769019021704,
+      "date": "2026-01-21",
+      "item": "Unrecognized Receipt",
+      "amount": 0,
+      "category": "Other"
+    },
+    {
+      "id": 1769019009481,
+      "date": "2026-01-21",
+      "item": "Unrecognized Receipt",
+      "amount": 0,
+      "category": "Other"
+    },
+    {
+      "id": 1769003469941,
+      "date": "2026-01-21",
+      "item": "Unrecognized Receipt",
+      "amount": 0,
+      "category": "Other"
+    }
+  ],
+  "users": [
+    {
+      "id": 1769001065273,
+      "username": "admin",
+      "password": "$2a$10$vGg4GDchTymqaewyp6IfxOKk1zw8xZS6HNNhdPqaMk.tOY7gwUnbm",
+      "role": "admin"
+    },
+    {
+      "id": 1769019265400,
+      "username": "Test",
+      "password": "$2a$10$oUh9437XcLvHmyidoHvniuEOeLxpk0Uh/cfheVW4gGfbPNsI8wcfe",
+      "role": "viewer"
+    }
+  ]
+}
